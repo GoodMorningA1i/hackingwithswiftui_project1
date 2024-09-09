@@ -2,9 +2,9 @@
 
 ## About the Project
 
+First SwiftUI app to split a cheque between people. It considers the cheque amount, the tip percentage, and how many people there are.
 
-
-This project covers topics like -------.
+This project covers topics like the basic structure of SwiftUI apps, Form, Section, NavigationStack, navigation bar titles, storing program state with @State and @FocusState, Picker, TextField vs Text, and ForEach.
 
 ### Built With
 
