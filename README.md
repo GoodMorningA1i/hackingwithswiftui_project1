@@ -2,9 +2,9 @@
 
 ## About the Project
 
+First SwiftUI app to split a cheque between people. It considers the cheque amount, the tip percentage, and how many people there are.
 
-
-This project covers topics like -------.
+This project covers topics like the basic structure of SwiftUI apps, Form, Section, NavigationStack, navigation bar titles, storing program state with @State and @FocusState, Picker, TextField vs Text, and ForEach.
 
 ### Built With
 
@@ -34,7 +34,7 @@ You should replace `your_username` and `project_name` respectively.
 
 ## Acknowledgements
 
-This project is from a tutorial series provided by Hacking With Swift. The tutorial series is called 100 Days of Swift. --------- introduces a challenge for learning purposes and it is where I incorporate my additions to this project.
+This project is from a tutorial series provided by Hacking With Swift. The tutorial series is called 100 Days of SwiftUI. Part 3 introduces a challenge for learning purposes and it is where I incorporate my additions to this project.
 
 - Part 1: https://www.hackingwithswift.com/100/swiftui/16
 - Part 2: https://www.hackingwithswift.com/100/swiftui/17
