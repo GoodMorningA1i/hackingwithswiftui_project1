@@ -55,6 +55,8 @@ struct ContentView: View {
                 }
                 Section("Total Cheque - original amount + tip value") {
                     Text(grandTotal, format: .currency(code: Locale.current.currency?.identifier ?? "USD"))
+                        .padding(5)
+                        .background(tipPercentage == 0 ? .red : .clear)
                 }
                 Section("Amount per person") {
                     Text(totalPerPerson, format: .currency(code: Locale.current.currency?.identifier ?? "USD"))
